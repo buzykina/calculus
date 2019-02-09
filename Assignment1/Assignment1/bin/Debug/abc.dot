@@ -1,0 +1,30 @@
+graph calculus {
+   node [ fontname = "Arial" ]
+   node1 [ label = "*" ]
+   node1 -- node2
+   node2 [ label = "-" ]
+   node2 -- node4
+   node4 [ label = "sin" ]
+   node4 -- node8
+   node8 [ label = "^" ]
+   node8 -- node16
+   node16 [ label = "sin" ]
+   node16 -- node32
+   node32 [ label = "x" ]
+   node8 -- node17
+   node17 [ label = "2" ]
+   node1 -- node3
+   node3 [ label = "*" ]
+   node3 -- node6
+   node6 [ label = "*" ]
+   node6 -- node12
+   node12 [ label = "sin" ]
+   node12 -- node24
+   node24 [ label = "x" ]
+   node6 -- node13
+   node13 [ label = "2" ]
+   node3 -- node7
+   node7 [ label = "cos" ]
+   node7 -- node14
+   node14 [ label = "x" ]
+}

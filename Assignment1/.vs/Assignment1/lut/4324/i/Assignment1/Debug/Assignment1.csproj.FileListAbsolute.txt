@@ -1,0 +1,9 @@
+C:\Users\Elena\Desktop\Study\Pre master\Block2\Assignment1\.vs\Assignment1\lut\0\b\Assignment1\bin\Debug\Assignment1.exe.config
+C:\Users\Elena\Desktop\Study\Pre master\Block2\Assignment1\.vs\Assignment1\lut\0\b\Assignment1\bin\Debug\Assignment1.exe
+C:\Users\Elena\Desktop\Study\Pre master\Block2\Assignment1\.vs\Assignment1\lut\0\i\Assignment1\Debug\Assignment1.csprojAssemblyReference.cache
+C:\Users\Elena\Desktop\Study\Pre master\Block2\Assignment1\.vs\Assignment1\lut\0\i\Assignment1\Debug\Assignment1.Form1.resources
+C:\Users\Elena\Desktop\Study\Pre master\Block2\Assignment1\.vs\Assignment1\lut\0\i\Assignment1\Debug\Assignment1.Properties.Resources.resources
+C:\Users\Elena\Desktop\Study\Pre master\Block2\Assignment1\.vs\Assignment1\lut\0\i\Assignment1\Debug\Assignment1.csproj.GenerateResource.cache
+C:\Users\Elena\Desktop\Study\Pre master\Block2\Assignment1\.vs\Assignment1\lut\0\i\Assignment1\Debug\Assignment1.csproj.CoreCompileInputs.cache
+C:\Users\Elena\Desktop\Study\Pre master\Block2\Assignment1\.vs\Assignment1\lut\0\i\Assignment1\Debug\Assignment1.csproj.CopyComplete
+C:\Users\Elena\Desktop\Study\Pre master\Block2\Assignment1\.vs\Assignment1\lut\0\i\Assignment1\Debug\Assignment1.exe
